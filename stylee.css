@@ -193,10 +193,10 @@ footer div a:hover{
 	padding: 10px 0 10px 0;
 	opacity:1;
 	border-top:3px solid #d37726;
-	border-bottom:3px solid #d37726;	
+	border-bottom:3px solid #d37726;
+	font-weight:bold	
 }
 #image img{
 	float:right;
 	width:500px;
-	
 }
